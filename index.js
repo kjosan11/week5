@@ -1,7 +1,7 @@
 var timestop;
 function myTimer() {
   timestop = setInterval(function () {
-    var countDownDate = new Date("March 29, 2021 12:01:00").getTime();
+    var countDownDate = new Date("March 22, 2021 12:01:00").getTime();
     // Get today's date and time
     var now = new Date().getTime();
 
